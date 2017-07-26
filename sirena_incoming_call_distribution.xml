@@ -1,4 +1,5 @@
 <Response> 
+    <!-- Grabar llamada y obtener archivo: <Record startOnDialAnswer="true" action="http://foo.com/get_recording/ redirect="false" /> -->
     <Record startOnDialAnswer="true" redirect="false" />
     <Dial callerId="Sirena" timeout="15">
         <Number>+5491157972559</Number> 
@@ -9,6 +10,7 @@
     <Dial calledId="Sirena" timeout="15">
         <Number>+5491157972559</Number>
     </Dial>
-    <Play>https://s3.amazonaws.com/plivocloud/Trumpet.mp3</Play>
+    <!-- Reproducir Audio: <Play>https://s3.amazonaws.com/plivocloud/Trumpet.mp3</Play> -->
+    <Speak language="es-ES">Todos nuestros vendedores están ocupados. Por favor, dejanos tus datos de contacto, y tu consulta, y uno de nosotros entrara en contacto.</Speak>
     <Record maxLength="180" playBeep="true" finishOnKey="*" />
 </Response>
