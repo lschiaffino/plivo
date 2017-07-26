@@ -1,5 +1,8 @@
 <Response> 
-    <Dial callerId="+5491157975555">
+    <Dial callerId="Sirena" timeout="15">
         <Number>+5491157972559</Number> 
     </Dial> 
+    <Dial calledId="Sirena">
+        <Number>+5491157972559</Number>
+    </Dial>
 </Response>
