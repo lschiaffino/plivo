@@ -1,11 +1,11 @@
 <Response>
-    <Dial callerId="+541145520371" timeout="15">
+    <Dial callerId="+541145520371" timeout="20">
         <Number>+5491163074966</Number> 
     </Dial> 
-    <Dial calledId="+541145520371" timeout="15">
+    <Dial calledId="+541145520371" timeout="20">
         <Number>+5491128730434</Number>
     </Dial>
-    <Dial calledId="+541145520371" timeout="15">
+    <Dial calledId="+541145520371" timeout="20">
         <Number>+5491156590639</Number>
     </Dial>
     <Speak language="es-ES">Todos nuestros vendedores estan ocupados. Por favor, dejanos tus datos de contacto, y tu consulta, y uno de nosotros entrara en contacto a la brevedad.</Speak>
