@@ -1,9 +1,6 @@
 
 <Response>
     <Dial callerId="+54 11 5983 9584" timeout="15">
-        <Number>+54 9 11 5797 2559</Number> <!-- Eze -->
-    </Dial> 
-    <Dial callerId="+54 11 5983 9584" timeout="15">
         <Number>+54 9 11 6307 4966</Number> <!-- Nacho -->
     </Dial> 
     <Dial calledId="+54 11 5983 9584" timeout="15">
