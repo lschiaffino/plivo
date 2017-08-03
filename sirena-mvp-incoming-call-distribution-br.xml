@@ -1,5 +1,5 @@
 <Response>
-    <Dial callerId="+55 11 3500 7912" timeout="20">
+    <Dial callerId="+55 11 3500 7912" timeout="30">
         <Number>+54 9 11 5797 2559</Number>
     </Dial>
 </Response>
