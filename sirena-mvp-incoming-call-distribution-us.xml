@@ -1,8 +1,8 @@
 <Response>
-    <Dial calledId="+1 302-202-2352" timeout="15">
+    <Dial calledId="+1 302-202-2352" timeout="30">
         <Number>+54 9 11 5659 0639</Number> <!-- Migue -->
     </Dial>
-    <Dial calledId="+1 302-202-2352" timeout="15">
+    <Dial calledId="+1 302-202-2352" timeout="30">
         <Number>+54 9 11 4928 7832</Number> <!-- Lauta -->
     </Dial>
     <Speak language="en-US">All our salespeople are busy. Please, leave us your contact information, and your inquery, and one of us will contact you as soon as possible.</Speak>
