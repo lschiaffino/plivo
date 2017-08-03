@@ -1,12 +1,15 @@
 <Response>
-    <Dial calledId="+541145520371" timeout="20">
-        <Number>+5491156590639</Number>
+    <Dial calledId="+52 55 8421 1185" timeout="15">
+        <Number>+52 1 55 8095 6188</Number> <!-- Facu -->
     </Dial>
-    <Dial calledId="+541145520371" timeout="20">
-        <Number>+5491149287832</Number>
+    <Dial calledId="+52 55 8421 1185" timeout="15">
+        <Number>+52 1 55 8106 9659</Number> <!-- Maxi -->
     </Dial>
-    <Dial calledId="+541145520371" timeout="20">
-        <Number>+5491153297799</Number>
+    <Dial calledId="+52 55 8421 1185" timeout="15">
+        <Number>+54 9 11 5659 0639</Number> <!-- Migue -->
+    </Dial>
+    <Dial calledId="+52 55 8421 1185" timeout="15">
+        <Number>+54 9 11 4928 7832</Number> <!-- Lauta -->
     </Dial>
     <Speak language="es-ES">Todos nuestros vendedores estan ocupados. Por favor, dejanos tus datos de contacto, y tu consulta, y uno de nosotros entrara en contacto a la brevedad.</Speak>
     <Record maxLength="180" playBeep="true" finishOnKey="*" />
