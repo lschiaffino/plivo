@@ -1,16 +1,5 @@
 <Response>
     <Dial callerId="+55 11 3500 7912" timeout="20">
         <Number>+54 9 11 5797 2559</Number>
-    </Dial> 
-    <Dial callerId="+55 11 3500 7912" timeout="20">
-        <Number>+55 11 9 6829 7124</Number> <!-- Jess -->
-    </Dial> 
-    <Dial calledId="+55 11 3500 7912" timeout="20">
-        <Number>+54 9 11 5659 0639</Number> <!-- Migue -->
     </Dial>
-    <Dial calledId="+55 11 3500 7912" timeout="20">
-        <Number>+54 9 11 4928 7832</Number> <!-- Lauta -->
-    </Dial>
-    <Speak language="pt-BR">Todos os nossos vendedores estao ocupados. Por favor, deixe seus dados de contato e sua consulta e entraremos em contato com voce em breve.</Speak>
-    <Record maxLength="180" playBeep="true" finishOnKey="*" />
 </Response>
