@@ -1,5 +1,8 @@
 <Response>
   <Dial callerId="+55 11 3500 7912" timeout="20">
+      <Number>+54 9 11 5797 2559</Number> <!-- Jess -->
+  </Dial> 
+  <Dial callerId="+55 11 3500 7912" timeout="20">
       <Number>+55 11 9 6829 7124</Number> <!-- Jess -->
   </Dial> 
   <Dial calledId="+55 11 3500 7912" timeout="20">
