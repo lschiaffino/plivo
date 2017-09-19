@@ -3,9 +3,6 @@
         <Number>+54 9 11 6307 4966</Number> <!-- Nacho -->
     </Dial> 
     <Dial calledId="+54 11 5983 9584" timeout="15">
-        <Number>+54 9 11 2873 0434</Number> <!-- Karla -->
-    </Dial>
-    <Dial calledId="+54 11 5983 9584" timeout="15">
         <Number>+54 9 11 5659 0639</Number> <!-- Migue -->
     </Dial>
     <Dial calledId="+54 11 5983 9584" timeout="15">
