@@ -3,6 +3,9 @@
         <Number>+52 1 55 8095 6188</Number> <!-- Facu -->
     </Dial>
     <Dial calledId="+52 55 8421 1185" timeout="15">
+        <Number>+52 1 55 5503 8452</Number> <!-- Hector -->
+    </Dial>
+    <Dial calledId="+52 55 8421 1185" timeout="15">
         <Number>+54 9 11 5659 0639</Number> <!-- Migue -->
     </Dial>
     <Dial calledId="+52 55 8421 1185" timeout="15">
